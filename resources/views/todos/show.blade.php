@@ -15,8 +15,6 @@
 
 {{ Form::bsSubmit('Delete',['class'=>'btn btn-danger']) }}
 
-
-
 {!! Form::close() !!}
 
 @endsection
